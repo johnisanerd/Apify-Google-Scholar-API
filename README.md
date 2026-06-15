@@ -304,4 +304,10 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Scholar API to power literature reviews, citation analysis, and research dashboards with reliable, structured results.*
 
+## Featured Tasks
+
+Ready-to-run examples on the Apify Store.
+
+- [Export Google Scholar Results to CSV](https://apify.com/johnvc/google-scholar-api/examples/export-google-scholar-results-to-csv?fpr=9n7kx3)
+
 Last Updated: 2026.05.30
