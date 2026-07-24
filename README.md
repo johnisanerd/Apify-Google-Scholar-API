@@ -310,4 +310,4 @@ Ready-to-run examples on the Apify Store.
 
 - [Export Google Scholar Results to CSV](https://apify.com/johnvc/google-scholar-api/examples/export-google-scholar-results-to-csv?fpr=9n7kx3)
 
-Last Updated: 2026.07.22
+Last Updated: 2026.07.24
