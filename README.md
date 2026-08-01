@@ -310,4 +310,12 @@ Ready-to-run examples on the Apify Store.
 
 - [Export Google Scholar Results to CSV](https://apify.com/johnvc/google-scholar-api/examples/export-google-scholar-results-to-csv?fpr=9n7kx3)
 
+---
+
+## 🌐 About Alpha OSINT
+
+This example repo is part of [Alpha OSINT](https://www.alphaosint.com), toolset of financial and operations data sources and APIs.
+See the [Google Scholar source page](https://www.alphaosint.com/sources/google-scholar/) for related tools and use cases.
+For support or requests for this actor, please start a ticket [directly on our support page](https://apify.com/johnvc/google-scholar-api/issues/open?fpr=9n7kx3).
+
 Last Updated: 2026.07.31
