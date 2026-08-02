@@ -318,4 +318,4 @@ This example repo is part of [Alpha OSINT](https://www.alphaosint.com), toolset 
 See the [Google Scholar source page](https://www.alphaosint.com/sources/google-scholar/) for related tools and use cases.
 For support or requests for this actor, please start a ticket [directly on our support page](https://apify.com/johnvc/google-scholar-api/issues/open?fpr=9n7kx3).
 
-Last Updated: 2026.08.01
+Last Updated: 2026.08.02
